@@ -1,7 +1,5 @@
 ## Hi there, I'm **Matteo Marrocco**!👋
 
-<!--
-**matteomarrocco/MatteoMarrocco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
   
 
 🎓 A passionate **Master's student in Data Science for Decision Making** at Maastricht University.  
