@@ -2,7 +2,7 @@
 
 🎓 **Master's student in Data Science for Decision Making** at Maastricht University.  
 💡 I love solving real-world problems using **data science**, **statistical analysis**, and **machine learning**.  
-🚀 Always eager to learn, curious, innovate, and explore new technologies.  
+🚀 Always eager to learn, curious, and innovate.  
 
 ---
 
@@ -13,9 +13,6 @@
 
 **Data Visualization:**  
 `PowerBI` | `Tableau`  
-
-**Machine Learning Frameworks:**  
-`TensorFlow` | `scikit-learn`  
 
 **Soft Skills:**
 `Team Leadership` | `Problem Solving` | `Curiosity` | `Willingness to Learn` 
