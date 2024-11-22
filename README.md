@@ -19,7 +19,7 @@
 
 ---
 
-## 📚 **Projects (https://github.com/matteomarrocco/PROJECTS) **  
+## 📚 **Projects **  (https://github.com/matteomarrocco/PROJECTS)  
 
 ### 🔍 **Regional Health Monitoring**
 **Sep 2024 - Feb 2025**
