@@ -41,7 +41,7 @@ I applied **Natural Language Processing** techniques to extract insights from th
 - Built a **knowledge graph** to visualize the connections between the characters and themes.  
 - **Tech Stack:** Python, NLTK, NetworkX, BERT, BERTopic
 
-### ⚽ **Football Performance Analysis Through Knowledge Graph Construction  (https://github.com/matteomarrocco/PROJECTS/README.md) **
+### ⚽ **Football Performance Analysis Through Knowledge Graph Construction  (https://github.com/matteomarrocco/PROJECTS) **
 **Feb 2024 - Apr 2024**  
 Created a **football knowledge graph** using match statistics and player performance data to evaluate key performance indicators.  
 - Analyzed top players per match based on metrics like **progressive carries**, **passes**, **shots**, and **dribbles**.  
