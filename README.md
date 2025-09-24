@@ -32,7 +32,7 @@
 ### 🚀 **European Space Agency (ESA)**
 **Internship - Data Scientist in the Market Intelligence Team**
 
-**March 2025 - Sept 2025**
+📅 **March 2025 - Sept 2025**
 
 - Developed a fully automated system that uses **Large Language Models (LLMs)** to identify key themes, detect relevant entities and stakeholders, track their sentiment and opinions, achieving more accurate results compared to traditional topic modeling and sentiment analysis approaches.
 
@@ -57,7 +57,9 @@
  limited data availability.
 
 ### 🔬 **Predicting Characteristics of Polymers Using LLMs**  
+
 📅 **Feb 2024 - July 2024**  
+
 I fine-tuned **NVIDIA’s MegaMolBART model** to predict important molecular characteristics like **aqueous solubility** and **odor descriptors** for polymer molecules.  
 - Used embeddings for **binary and multi-class classification** to analyze molecular odor descriptors.  
 - Conducted **data preprocessing** and regression analysis, improving solubility prediction by **6%** with data augmentation techniques.  
@@ -67,7 +69,8 @@ I fine-tuned **NVIDIA’s MegaMolBART model** to predict important molecular cha
 
 [Project Repo](https://github.com/matteomarrocco/text-mining-and-natural-language-processing)
 
-📅 **Apr 2024 - July 2024**  
+📅 **Apr 2024 - July 2024** 
+
 I applied **Natural Language Processing** techniques to extract insights from the classic novel *Murder on the Orient Express*.  
 - Conducted **Named Entity Recognition (NER)**, **sentiment analysis**, and **emotion analysis** to uncover key themes and character relationships.  
 - Used **topic modeling** and **co-occurrence analysis** to explore the story’s dynamics.  
@@ -79,14 +82,17 @@ I applied **Natural Language Processing** techniques to extract insights from th
 [Project Repo](https://github.com/matteomarrocco/PROJECTS)
 
 📅 **Feb 2024 - Apr 2024**  
-Created a **football knowledge graph** using match statistics and player performance data to evaluate key performance indicators.  
+
+I created a **football knowledge graph** using match statistics and player performance data to evaluate key performance indicators.  
 - Analyzed top players per match based on metrics like **progressive carries**, **passes**, **shots**, and **dribbles**.  
 - Focused on identifying **Under-21 players** who contributed significantly to scoring.  
 - Leveraged **SPARQL** queries to gain deeper insights.  
 - **Tech Stack:** Python (NetworkX, Pandas), SPARQL
 
 ### 📊 **Football and Statistics – Bachelor Thesis**  
-**Mar 2023 - June 2023**  
+
+📅 **Mar 2023 - June 2023**  
+
 For my Bachelor's thesis, I conducted a comprehensive statistical analysis of **Serie A 2021/2022 football data**.  
 - Explored **Expected Goals (xG)** metrics and their impact on modern football analysis.  
 - Investigated the **“home advantage”** factor and found no statistically significant effect.  
