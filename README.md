@@ -31,8 +31,11 @@
 
 ### 🚀 **European Space Agency (ESA)**
 **Internship - Data Scientist in the Market Intelligence Team**
+
 **March 2025 - Sept 2025**
+
 - Developed a fully automated system that uses **Large Language Models (LLMs)** to identify key themes, detect relevant entities and stakeholders, track their sentiment and opinions, achieving more accurate results compared to traditional topic modeling and sentiment analysis approaches.
+
 - Built an **automated pipeline** that processes both audio and text data, generating tailored summaries for different target audiences and answering user questions using a **Retrieval Augmented Generation (RAG)** approach.
 - Architecting an automated news intelligence system for the space domain, detecting news via **APIs**, classifying articles into categories, extracting insights with LLMs, and mapping relationships between technologies, companies, and projects using knowledge graphs.
 - **Impact:** Designed and implemented fully automated, modular pipelines orchestrating workflows. Delivered valuable insights that are actively informing the team’s strategies.
