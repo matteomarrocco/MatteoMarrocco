@@ -42,7 +42,7 @@
 
 ---
 
-## 📚 **Projects**  (https://github.com/matteomarrocco/PROJECTS)  
+## 📚 **Projects**    
 
 ### 🔍 **Regional Health Monitoring**
 **Sep 2024 - Feb 2025**
@@ -63,7 +63,7 @@ I fine-tuned **NVIDIA’s MegaMolBART model** to predict important molecular cha
 - Conducted **data preprocessing** and regression analysis, improving solubility prediction by **6%** with data augmentation techniques.  
 - **Tech Stack:** Python, MegaMolBART, PyTorch, Pandas
 
-### 📚 **Text Mining and NLP on "Murder on the Orient Express"**  
+### 📚 **Text Mining and NLP on "Murder on the Orient Express"** [Project Repo](https://github.com/matteomarrocco/text-mining-and-natural-language-processing)
 **Apr 2024 - July 2024**  
 I applied **Natural Language Processing** techniques to extract insights from the classic novel *Murder on the Orient Express*.  
 - Conducted **Named Entity Recognition (NER)**, **sentiment analysis**, and **emotion analysis** to uncover key themes and character relationships.  
@@ -71,7 +71,7 @@ I applied **Natural Language Processing** techniques to extract insights from th
 - Built a **knowledge graph** to visualize the connections between the characters and themes.  
 - **Tech Stack:** Python, NLTK, NetworkX, BERT, BERTopic
 
-### ⚽ **Football Performance Analysis Through Knowledge Graph Construction**
+### ⚽ **Football Performance Analysis Through Knowledge Graph Construction** [Project Repo](https://github.com/matteomarrocco/PROJECTS)
 **Feb 2024 - Apr 2024**  
 Created a **football knowledge graph** using match statistics and player performance data to evaluate key performance indicators.  
 - Analyzed top players per match based on metrics like **progressive carries**, **passes**, **shots**, and **dribbles**.  
