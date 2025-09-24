@@ -1,21 +1,40 @@
 # 👋 Hi, I'm **Matteo Marrocco**!  
 
 🎓 **Master's student in Data Science for Decision Making** at Maastricht University.  
-💡 I love solving real-world problems using **data science**, **statistical analysis**, and **machine learning**.  
+💡 I love solving problems using **data science**, **AI**, **statistical analysis**, and **machine learning**.  
 🚀 Always eager to learn, curious, and innovate.  
 
 ---
 
 ## 🛠️ **Skills & Technologies**  
 
-**Programming & Querying:**  
-`Python` | `R` | `SQL` | `SPARQL`  
+**Programming Languages:**  
+`Python` | `R` | `SPARQL`  
 
-**Data Visualization:**  
-`PowerBI` | `Tableau`  
+**Machine Learning & AI:**
+`Large Language Models` | `Transformers` | `LangChain` | `Scikit-learn` | `TensorFlow` | `PyTorch` | `LangChain` | `APIs`|
+
+**Data Science & Analytics:**
+`Pandas` | `NumPy` | `NetworkX` | `NLTK` | `Matplotlib` | `Seaborn`
+
+**Development & Tools:**
+`Modular Programming` | `Jupyter Notebooks` | `GitHub` | `GitLab` | `VS Code` | `Google Colab`
 
 **Soft Skills:**
-`Team Leadership` | `Problem Solving` | `Curiosity` | `Willingness to Learn` 
+`Curiosity` | `Problem Solving` | `Analytical  Ability` | `Willingness to Learn` | `Collaboration` | `Adaptability`
+
+**Languages:**
+`Italian` | `Spanish` | `English` | `French (B1)` | `German (A1)` | `Portuguese (A1)`
+
+---
+## 💼 **Work Experience**
+
+### 🚀 **European Space Agency (ESA)**
+**Internship - Data Scientist in the Market Intelligence Team**
+- Developed a fully automated system that uses **Large Language Models (LLMs)** to identify key themes, detect relevant entities and stakeholders, track their sentiment and opinions, achieving more accurate results compared to traditional topic modeling and sentiment analysis approaches.
+- Built an **automated pipeline** that processes both audio and text data, generating tailored summaries for different target audiences and answering user questions using a **Retrieval Augmented Generation (RAG)** approach.
+- Architecting an automated news intelligence system for the space domain, detecting news via **APIs**, classifying articles into categories, extracting insights with LLMs, and mapping relationships between technologies, companies, and projects using knowledge graphs.
+- **Impact:** Designed and implemented fully automated, modular pipelines orchestrating workflows. Delivered valuable insights that are actively informing the team’s strategies.
 
 ---
 
