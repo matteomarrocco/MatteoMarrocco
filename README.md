@@ -11,7 +11,7 @@
 **Programming Languages:** `Python` | `R` | `SPARQL`  
 
 **Machine Learning & AI:**
-`Large Language Models` | `Transformers` | `LangChain` | `Scikit-learn` | `TensorFlow` | `PyTorch` | `LangChain` | `APIs`|
+`Large Language Models` | `Transformers` | `LangChain` | `Scikit-learn` | `TensorFlow` | `PyTorch` | `LangChain` | `APIs`
 
 **Data Science & Analytics:**
 `Pandas` | `NumPy` | `NetworkX` | `NLTK` | `Matplotlib` | `Seaborn`
