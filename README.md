@@ -78,7 +78,7 @@ I applied **Natural Language Processing** techniques to extract insights from th
 
 ### ⚽ **Football Performance Analysis Through Knowledge Graph Construction** 
 
-[Project Repo](https://github.com/matteomarrocco/PROJECTS)
+[Project Repo](https://github.com/matteomarrocco/knowledge-graph)
 
 📅 **Feb 2024 - Apr 2024**  
 
