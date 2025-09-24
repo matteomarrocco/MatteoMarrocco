@@ -1,7 +1,7 @@
 # 👋 Hi, I'm **Matteo Marrocco**!  
 
 🎓 **Master's student in Data Science for Decision Making** at Maastricht University.  
-💡 I love solving problems using **data science**, **AI**, **statistical analysis**, and **machine learning**.  
+💡 I love solving problems using **data science**, **AI**, **machine learning**, and **statistical analysis**.  
 🚀 Always eager to learn, curious, and innovate.  
 
 ---
