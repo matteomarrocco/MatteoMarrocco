@@ -87,13 +87,6 @@ For my Bachelor's thesis, I conducted a comprehensive statistical analysis of **
 - Achieved a **Spearman correlation coefficient of 0.977** for match outcome predictions.  
 - **Tech Stack:** Python, R
 
-
----
-
-## 🌱 **Interests & Goals**  
-- 🔗 Applying **data science and AI** to solve impactful real-world problems, especially in **sports** and other fascinating domains.  
-- 🤝 Contributing to **open-source projects** and collaborating with talented developers worldwide.  
-
 ---
 
 ## 📬 **How to Reach Me**  
