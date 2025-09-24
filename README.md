@@ -8,8 +8,7 @@
 
 ## 🛠️ **Skills & Technologies**  
 
-**Programming Languages:**  
-`Python` | `R` | `SPARQL`  
+**Programming Languages:** `Python` | `R` | `SPARQL`  
 
 **Machine Learning & AI:**
 `Large Language Models` | `Transformers` | `LangChain` | `Scikit-learn` | `TensorFlow` | `PyTorch` | `LangChain` | `APIs`|
