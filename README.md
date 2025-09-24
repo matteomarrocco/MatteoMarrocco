@@ -24,7 +24,14 @@
 ### 🔍 **Regional Health Monitoring**
 **Sep 2024 - Feb 2025**
 
-Currently working on a **regional health monitoring project** to analyze and interpret public health data trends.  
+ - Collaborated with CBS and Maastricht University on a research project aimed at developing a regional health
+ monitoring model to **assess health trends** across various municipalities.
+ - Applied **generalized mixed models** and **machine learning algorithms** to uncover the most influential health
+ determinants, with a case study focused on smoking behavior identifying municipalities at greater risk.
+ - Addressed privacy concerns by showcasing an example of **Federated Learning**, proving its potential for secure
+ data analysis.
+ - **Impact:** Identified municipalities most at risk, providing insights for health interventions, even in areas with
+ limited data availability.
 
 ### 🔬 **Predicting Characteristics of Polymers Using LLMs**  
 **Feb 2024 - July 2024**  
