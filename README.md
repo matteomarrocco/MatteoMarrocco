@@ -88,6 +88,18 @@ I created a **football knowledge graph** using match statistics and player perfo
 - Leveraged **SPARQL** queries to gain deeper insights.  
 - **Tech Stack:** Python (NetworkX, Pandas), SPARQL
 
+
+### ⏳ **Time Series Analysis**  
+
+[Project Repo](https://github.com/matteomarrocco/time-series-analysis)
+
+📅 **Apr 2023 - June 2023**
+
+For my  university project, I conducted a **time series econometric analyses** on both economic (natural gas prices) and financial (stock prices) datasets.  
+- Applied **forecasting techniques** including ARIMA and GARCH-family models to study trends, seasonality, and volatility.  
+- Evaluated model performance and generated **12-month ahead forecasts**, highlighting key insights and limitations.  
+
+
 ### 📊 **Football and Statistics – Bachelor Thesis**  
 
 📅 **Mar 2023 - June 2023**  
